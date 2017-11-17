@@ -1,1 +1,1 @@
-# mySpacemacs
+# emacs.d
